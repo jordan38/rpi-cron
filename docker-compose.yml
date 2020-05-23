@@ -1,0 +1,5 @@
+crontabber:
+  image: nicosingh/rpi-cron:alpine
+  command: "* * * * * /cron-script.sh"
+  volumes:
+    - ./cron-script.sh:/cron-script.sh
