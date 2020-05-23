@@ -2,7 +2,7 @@
 
 # About
 
-Docker image of Raspbian made to run schedules commands using cron.
+Fork of Docker image of Raspbian made to run schedules commands using cron.
 
 # How to use this Docker image?
 
